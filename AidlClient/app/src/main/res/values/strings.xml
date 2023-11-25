@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AidlClient</string>
+    <string name="subtract">subtract</string>
+    <string name="add">add</string>
+</resources>
